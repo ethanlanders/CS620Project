@@ -17,7 +17,7 @@ This project explores the relationship between community walkability and various
 
 ### Libraries
 - Pandas
-- Matplotlib <be><br>
+- Matplotlib <br><br>
 All utilized Python libraries were preinstalled in Google Colab for this project.
 
 ### Usage
