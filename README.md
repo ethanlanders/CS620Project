@@ -16,9 +16,9 @@ This project explores the relationship between community walkability and various
 - Additional resources (if any, such as datasets, supplementary scripts, etc., should be listed here.)
 
 ### Libraries
+All utilized Python libraries were preinstalled in Google Colab for this project:
 - Pandas
-- Matplotlib <br><br>
-All utilized Python libraries were preinstalled in Google Colab for this project.
+- Matplotlib
 
 ### Usage
 To execute `cs_620_project.py`, the user needs to compile each Google Colab cell section of code by using the keyboard shortcut _CTRL + Shift_ or by clicking the run button on the left to see the output.
