@@ -26,6 +26,6 @@ All utilized Python libraries were preinstalled in Google Colab for this project
 To execute `cs_620_project.py`, the user needs to compile each Google Colab cell section of code by using the keyboard shortcut _CTRL + Shift_ or by clicking the run button on the left to see the output.
 
 ### Contributing
-[]: # (Invite contributions by providing guidelines on how others can contribute to the project. Outline the process for submitting issues, feature requests, or pull requests.)
+_Invite contributions by providing guidelines on how others can contribute to the project. Outline the process for submitting issues, feature requests, or pull requests._
 
 ### References
