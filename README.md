@@ -12,7 +12,7 @@ This project explores the relationship between community walkability and various
 - Dipendra Thapa Magar - dthap001@odu.edu - [Website](https://dipendrathapamagar.github.io)
 
 ### Contents of the Repository
-- `cs_620_project.py`: The main Python script containing the data analysis and processing code for the study.
+- `cs_620_project.ipynb`: The main Python script containing the data analysis and processing code for the study.
 - `NYC EH Data Portal - Walkability index (full table).csv`:  The primary dataset for this study, which contains walkability scores for various New York City neighborhoods
 - `Poor_Population_Living_in_Concentrated_Poverty_Cleaned.csv`:  A secondary dataset for this study, which contains data on the estimated number of poor population living in concentrated poverty in various New York City neighborhoods.
 - `Obesity_Among_Public_Elementary_and_Middle_School_Students_Cleaned.csv`:  A secondary dataset for this study, which contains data on the estimated number of elementary and middle school students in New York City who are obese.
