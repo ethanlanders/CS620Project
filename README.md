@@ -6,13 +6,13 @@ Fall 2023
 
 ## Authors
 - **Ethan Landers**
-  - [Email](eland007@odu.edu)
+  - [Email](mailto:eland007@odu.edu)
   - [Website](https://ethanlanders.github.io)
 - **Lynell Freeman**
-  - [Email](lfree005@odu.edu)
+  - [Email](mailto:lfree005@odu.edu)
   - [Website](https://lynellfreeman.github.io)
 - **Dipendra Thapa Magar**
-  - [Email](dthap001@odu.edu)
+  - [Email](mailto:dthap001@odu.edu)
   - [Website](https://dipendrathapamagar.github.io)
 
 ## Overview
