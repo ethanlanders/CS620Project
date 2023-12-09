@@ -1,7 +1,7 @@
 # **Walkability and Well-Being - An Urban Analysis**
 
-**Old Dominion University**
-CS620 - Intro to Data Science
+**Old Dominion University**<br>
+CS620 - Intro to Data Science<br>
 Fall 2023
 
 ## Authors
