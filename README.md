@@ -1,30 +1,37 @@
-# **Walkability and Well-Being: An Urban Analysis**
+# **Walkability and Well-Being - An Urban Analysis**
 
-Fall 2023, CS620, Old Dominion University
-
-## Description
-This project explores the relationship between community walkability and various aspects of well-being in urban environments. Focusing on New York City, the study aims to discern correlations between walkable communities and happiness indicators, such as mental health, poverty rates, and access to healthcare. The research is ongoing, aiming to uncover patterns that suggest how walkable environments might contribute to increased happiness and well-being.
+**Old Dominion University**
+CS620 - Intro to Data Science
+Fall 2023
 
 ## Authors
-- Ethan Landers - eland007@odu.edu - [Website](https://ethanlanders.github.io)
-- Lynell Freeman - lfree005@odu.edu - [Website](https://lynellfreeman.github.io)
-- Dipendra Thapa Magar - dthap001@odu.edu - [Website](https://dipendrathapamagar.github.io)
+- **Ethan Landers**
+  - [Email](eland007@odu.edu)
+  - [Website](https://ethanlanders.github.io)
+- **Lynell Freeman**
+  - [Email](lfree005@odu.edu)
+  - [Website](https://lynellfreeman.github.io)]
+- **Dipendra Thapa Magar**
+  - [Email](dthap001@odu.edu)
+  - [Website](https://dipendrathapamagar.github.io)
 
-## Contents of the Repository
-- `cs_620_project.ipynb`: The Jupyter Notebook containing the entire project, from the description, methods, data analysis, and processing code for the study.
-- `NYC EH Data Portal - Walkability index (full table).csv`:  The primary dataset for this study, which contains walkability scores for various New York City neighborhoods
-- `Poor_Population_Living_in_Concentrated_Poverty_Cleaned.csv`:  A secondary dataset for this study, which contains data on the estimated number of poor population living in concentrated poverty in various New York City neighborhoods.
-- `Obesity_Among_Public_Elementary_and_Middle_School_Students_Cleaned.csv`:  A secondary dataset for this study, which contains data on the estimated number of elementary and middle school students in New York City who are obese.
+## Overview
 
-## Libraries
-All utilized Python libraries were preinstalled in Google Colab for this project:
-- Pandas
-- Matplotlib
+Welcome to our project, "Walkability and Well-Being - An Urban Analysis," where we explore the relationship between community walkability and various facets of well-being in urban environments, with a focus on New York City.
+
+## Objective
+
+Many U.S. communities lack walkability and are heavily dependent on cars. Our goal is to investigate the correlation between community walkability and indicators of well-being, such as concentrated poverty rates and student obesity rates, with a focus on discerning potential connections to overall happiness.
+
+## Methodology
+
+To answer our research question, we employed a multi-faceted approach, beginning with the collection of walkability data for New York City neighborhoods from publicly available datasets. Additionally, data pertaining to the percentage of obese public elementary and middle school students and the rate of individuals living in concentrated poverty in New York City neighborhoods was gathered as indicators of community well-being and happiness. Subsequently, the collected datasets underwent thorough preprocessing, involving cleaning and filtering to focus on relevant metrics, such as the most recent year's data, and removal of irrelevant data. Following data preprocessing, the datasets were merged into one DataFrame, enabling a row-by-row comparison of walkability data with the well-being data to identify trends. Furthermore, various plots and charts were generated for data visualization to enhance our understanding. Ultimately, the correlation results were carefully interpreted, which has implications for urban planning, health initiatives, and policy-making.
+
+## Project Structure
+
+- `Walkability&WellBeing_CS620_DataProject.ipynb`: The Jupyter Notebook containing the entire project, from the description and methods to data preprocessing, analysis, and visualization.
+- The `Datasets/` folder in this GitHub repository contains all the datasets utilized in the project, both cleaned and uncleaned. It also contains other datasets that could be explored in the future.
 
 ## Usage
-To execute `cs_620_project.py`, the user needs to compile each Google Colab cell section of code by using the keyboard shortcut _CTRL + Shift_ or by clicking the run button on the left to see the output.
 
-## Contributing
-_Invite contributions by providing guidelines on how others can contribute to the project. Outline the process for submitting issues, feature requests, or pull requests._
-
-## References
+To execute `Walkability&WellBeing_CS620_DataProject.ipynb`, the user needs to compile each Google Colab cell section of code from top to bottom by using the keyboard shortcut _Shift + Enter_ for each cell or by clicking the run button on the left of each cell. They may also use the keyboard shortcut _CTRL + F9_ to compile every cell, which may be faster.
