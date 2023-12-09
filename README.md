@@ -10,7 +10,7 @@ Fall 2023
   - [Website](https://ethanlanders.github.io)
 - **Lynell Freeman**
   - [Email](lfree005@odu.edu)
-  - [Website](https://lynellfreeman.github.io)]
+  - [Website](https://lynellfreeman.github.io)
 - **Dipendra Thapa Magar**
   - [Email](dthap001@odu.edu)
   - [Website](https://dipendrathapamagar.github.io)
