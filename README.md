@@ -17,6 +17,8 @@ Fall 2023
 
 ## Overview
 
+Click [here](https://youtu.be/W4uXdOSEJTo?feature=shared) to access a YouTube video created by us that overviews the project.
+
 Welcome to our project, "Walkability and Well-Being - An Urban Analysis," where we explore the relationship between community walkability and various facets of well-being in urban environments, with a focus on New York City.
 
 ## Objective
